@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Welcome
 
-<!--
-**Milkaayalew/Milkaayalew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven to build impactful solutions through AI and data.  
+Focused on automation, analytics, and real-world problem solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Building AI-driven systems for real-world applications  
+- Exploring automation and data-driven decision making  
+- Developing projects that bridge data science with practical use cases  
+
+---
+
+## 🧠 Interests
+- Artificial Intelligence & Machine Learning  
+- Data Analytics & Visualization  
+- Automation & Intelligent Systems  
+- Real-world problem solving through data  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Tools:** Pandas, Tableau, Power BI  
+- **Other:** Data Cleaning, Visualization, Basic ML  
+
+---
+
+## 🌱 Currently Growing In
+- Machine Learning & AI systems  
+- Data engineering fundamentals  
+- Building scalable, real-world applications  
+
+---
+
+## 🤝 Let’s Connect
+- Open to collaboration, learning, and opportunities in Data Science & AI  
